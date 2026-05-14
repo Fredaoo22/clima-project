@@ -1,0 +1,19 @@
+# Segurança
+Wallet_clima/
+Wallet_clima.zip
+.env.openweather
+
+# Checkpoints
+.openweather_checkpoint.json
+
+# Dados e caches
+data/
+__pycache__/
+.pycache/
+*.pyc
+*.csv
+*.dsv
+
+# Ambientes virtuais
+venv/
+.venv/

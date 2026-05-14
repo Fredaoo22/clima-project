@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+.pycache/
+*.py[cod]
+
+# Local environment and runtime state
+.env.openweather
+.openweather_checkpoint.json
+
+# Oracle wallet artifacts (secrets)
+Wallet_clima/
+Wallet_clima.zip
+
+#Csv
+*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs
